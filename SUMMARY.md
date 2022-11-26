@@ -1,6 +1,8 @@
 # Table of contents
 
 * [Leetcode Solutions Index](README.md)
+* [1. Two Sum](1.-two-sum.md)
+* [2. Add Two Numbers](2.-add-two-numbers.md)
 * [3. Longest Substring Without Repeating Characters](3.-longest-substring-without-repeating-characters.md)
 * [4. Median of Two Sorted Arrays](4.-median-of-two-sorted-arrays.md)
 * [5. Longest Palindromic Substring](5.-longest-palindromic-substring.md)
@@ -10,6 +12,7 @@
 * [9. Palindrome Number](9.-palindrome-number.md)
 * [10. Regular Expression Matching](10.-regular-expression-matching.md)
 * [11. Container With Most Water](11.-container-with-most-water.md)
+* [12. Integer to Roman](12.-integer-to-roman.md)
 * [13. Roman to Integer](13.-roman-to-integer.md)
 * [14. Longest Common Prefix](14.-longest-common-prefix.md)
 * [15. 3Sum](15.-3sum.md)
@@ -23,4 +26,8 @@
 * [23. Merge k Sorted Lists](23.-merge-k-sorted-lists.md)
 * [24. Swap Nodes in Pairs](24.-swap-nodes-in-pairs.md)
 * [25. Reverse Nodes in k-Group](25.-reverse-nodes-in-k-group.md)
+* [26. Remove Duplicates from Sorted Array](26.-remove-duplicates-from-sorted-array.md)
+* [27. Remove Element](27.-remove-element.md)
+* [28. Find the Index of the First Occurrence in a String](28.-find-the-index-of-the-first-occurrence-in-a-string.md)
+* [29. Divide Two Integers](29.-divide-two-integers.md)
 * [222. Count Complete Tree Nodes](222.-count-complete-tree-nodes.md)
