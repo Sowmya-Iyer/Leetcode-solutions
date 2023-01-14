@@ -44,20 +44,32 @@ I am currently a graduate student at Purdue University just sharing my knowledge
 * [29. Divide Two Integers](29.-divide-two-integers.md)
 * [32. Longest Valid Parentheses](32.-longest-valid-parentheses.md)
 * [62. Unique Paths](62.-unique-paths.md)
+* [92. Reverse Linked List II ](92.-reverse-linked-list-ii.md)
+* [121. Best Time to Buy and Sell Stock](121.-best-time-to-buy-and-sell-stock.md)
+* [206. Reversed Linked List](206.-reverse-linked-list.md)
+* [463. Island Perimeter](463.-island-perimeter.md)
+* [746. Min Cost Climbing Stairs](746.-min-cost-climbing-stairs-dp.md)
+
+### Tree
+
+* [110. Balanced Binary Tree](198.-house-robber-dp/110.-balanced-binary-tree.md)
+* [222. Count Complete Tree nodes](222.-count-complete-tree-nodes.md)
+* [226. Invert Binary Tree](226.-invert-binary-tree.md)
+* [1448. Count Good Nodes in Binary Tree](1448.-count-good-nodes-in-binary-tree.md)
+
+
+
+### Dynamic Programming
+
 * [70. Climbing stairs - DP](70.-climbing-stairs-dp.md)
 * [72. Edit Distance - DP](72.-edit-distance-dp.md)
 * [91. Decode Ways - DP](91.-decode-ways-dp.md)
-* [92. Reverse Linked List II ](92.-reverse-linked-list-ii.md)
 * [97. Interleaving String -DP](97.-interleaving-string-dp.md)
-* [110. Balanced Binary Tree](110.-balanced-binary-tree.md)
 * [115. Direct Subsequences - DP](115.-distinct-subsequences-dp.md)
 * [139. Word Break - DP](139.-word-break-dp.md)
 * [152.Maximum Product Subarray - DP](152.-maximum-product-subarray-dp.md)
-* [198. House Robber -DP](198.-house-robber-dp.md)
-* [206. Reversed Linked List](206.-reverse-linked-list.md)
+* [198. House Robber -DP](198.-house-robber-dp/)
 * [213. House Robber II - DP](213.-house-robber-ii-dp.md)
-* [222. Count Complete Tree nodes](222.-count-complete-tree-nodes.md)
-* [226. Invert Binary Tree](226.-invert-binary-tree.md)
 * [300. Longest Increasing Subsequence - DP](300.-longest-increasing-subsequence-dp.md)
 * [309. Best Time to Buy and Sell Stock](309.-best-time-to-buy-and-sell-stock-with-cooldown-dp.md)
 * [312. Burst Balloons - DP](312.-burst-balloons-dp.md)
@@ -68,13 +80,17 @@ I am currently a graduate student at Purdue University just sharing my knowledge
 * [509. Fibonacci Number - DP](509.-fibonacci-number-dp.md)
 * [518. Coin Change II - DP](518.-coin-change-ii-dp.md)
 * [647. Palindromic Substring - DP](647.-palindromic-substrings-dp.md)
-* [746. Min Cost Climbing Stairs](746.-min-cost-climbing-stairs-dp.md)
 * [797. All Paths From Source to Target - DP](797.-all-paths-from-source-to-target-dp.md)
 * [1137. N-th Tribonacci Number - DP](1137.-n-th-tribonacci-number-dp.md)
 * [1143. Longest Common Subsequence - DP](1143.-longest-common-subsequence-dp.md)
-* [1448. Count Good Nodes in Binary Tree](1448.-count-good-nodes-in-binary-tree.md)
-*
 
+### Graphs
 
-
-*
+* [79. Word Search - Graphs](79.-word-search-graphs.md)
+* [127. Word Ladder - Graphs](127.-word-ladder-graphs.md)
+* [133. Clone Graph](133.-clone-graph.md)
+* [200. Number of Islands - Graphs](200.-number-of-islands-graphs.md)
+* [207. Course Schedule - Graphs](207.-course-schedule-graphs.md)
+* [210. Course Schedule II - Graphs](210.-course-schedule-ii-graphs.md)
+* [417. Pacific Atlantic Water Flow - Graph](417.-pacific-atlantic-water-flow-graph.md)
+* [743. Network Delay Time](743.-network-delay-time.md)
